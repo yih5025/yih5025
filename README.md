@@ -1,4 +1,1 @@
-<div align = "center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=capsule%20render&fontSize=90" margin="0" />
-  <img src="https://github.com/yih5025/YEB/blob/main/underpressure.png?raw=true" height="700" width="700" margin="0">
-</div>
+
