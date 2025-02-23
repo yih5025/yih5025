@@ -4,8 +4,8 @@
 <h1>Ilhan Yu - Data Engineer</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Data Engineer | AI Enthusiast</b><br/>
-  <i>Passionate about building end-to-end solutions that empower people.</i>
+  <b>Data Engineer</b><br/>
+  <i>Building fun and engaging projects through creative data collection and analysis.</i>
 </p>
 
 ---
