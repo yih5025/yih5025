@@ -1,7 +1,7 @@
 <!-- 헤더 이미지나 배너 이미지가 있다면 추가해 주세요 -->
 <!-- <img src="https://your-banner-image.jpg" alt="Banner" style="width:100%;"/> -->
 
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
+<h1>Ilhan Yu - Data Engineer</h1>
 
 <p align="center">
   <b>Full-Stack Developer | Data Engineer | AI Enthusiast</b><br/>
