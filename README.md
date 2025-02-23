@@ -24,6 +24,8 @@
 **Title**: "사물인터넷 환경 저비용 대용량 데이터 분석 시나리오 설계 및 성능 비교"  
 **Conference**: KCC2024 *(한국컴퓨터종합학술대회)*
 
+**Tech Stacks**: <img src="https://simpleicons.org/icons/apachekafka.svg">
+
 **Key Highlights**:
 - Built a **low-cost Raspberry Pi cluster** running Hadoop (HDFS, Yarn) and Spark (DataFrame)
 - Collected and analyzed **22 years of fine dust data** from AirKorea
