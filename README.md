@@ -5,7 +5,7 @@
 
 ## 🔭 Recent Projects
 
-### 1. **Cryptocurrency Mock Investment Game** - https://www.coinking.site/signin
+### 1. **Cryptocurrency Mock Investment Game** - [coinking-site](https://www.coinking.site/signin)
 
 **Description**: A web-based mock investment game that uses real-time cryptocurrency data for fun and educational investing.
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 2. **Large-Scale IoT Data Analysis Paper** - https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862340
+### 2. **Large-Scale IoT Data Analysis Paper** - [Paper-DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862340)
 
 **Title**: "사물인터넷 환경 저비용 대용량 데이터 분석 시나리오 설계 및 성능 비교"  
 **Conference**: KCC2024 *(한국컴퓨터종합학술대회)*
@@ -61,6 +61,6 @@ Currently, I want to develop a platform that makes it easy for anyone to collect
 ---
 
 ## 🤝 Contact 
-- **LinkedIn**: [[linkedin.com/in/ilhan-yu](https://www.linkedin.com/in/ilhan-yu-8b3a6b2b9/)
+- **LinkedIn**: [linkedin.com/in/ilhan-yu](https://www.linkedin.com/in/ilhan-yu-8b3a6b2b9/)
 - **Email**: [yih5025@gmail.com](mailto:yih5025@gmail.com)
-- **Website**: [[dont-make-excuses](https://dont-make-excuses.tistory.com/)]
+- **Website**: [dont-make-excuses](https://dont-make-excuses.tistory.com/)
