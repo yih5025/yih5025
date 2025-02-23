@@ -21,17 +21,21 @@
 
 ### 2. **Large-Scale IoT Data Analysis Paper** - [Paper-DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862340)
 
+**Tech Stack**: 
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Zeppelin-2A3C54?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
 **Title**: "사물인터넷 환경 저비용 대용량 데이터 분석 시나리오 설계 및 성능 비교"  
 **Conference**: KCC2024 *(한국컴퓨터종합학술대회)*
-
-**Tech Stacks**: <img src="https://simpleicons.org/icons/apachekafka.svg">
 
 **Key Highlights**:
 - Built a **low-cost Raspberry Pi cluster** running Hadoop (HDFS, Yarn) and Spark (DataFrame)
 - Collected and analyzed **22 years of fine dust data** from AirKorea
 - Compared performance of Spark and Pandas on **Raspberry Pi cluster vs. a standard PC**
 - Achieved **Best Paper Award** in the undergraduate division
-
 
 ---
 
