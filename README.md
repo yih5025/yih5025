@@ -4,7 +4,6 @@
 <h1>Ilhan Yu - Data Engineer</h1>
 
 <p align="center">
-  <b>Data Engineer</b><br/>
   <i>Building fun and engaging projects through creative data collection and analysis.</i>
 </p>
 
