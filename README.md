@@ -2,11 +2,6 @@
 <!-- <img src="https://your-banner-image.jpg" alt="Banner" style="width:100%;"/> -->
 
 <h1>Ilhan Yu - Data Engineer</h1>
-
-<p align="center">
-  <i>Building fun and engaging projects through creative data collection and analysis.</i>
-</p>
-
 ---
 
 ## 🔭 Recent Projects
@@ -55,9 +50,9 @@
 ---
 
 ## 🌱 Mission
-> "I strive to create data-driven solutions that truly solve problems, ensuring technology is both accessible and impactful for everyday life."
+> "I aim to use diverse data sources to build practical services that truly solve real-world problems and help people."
 
-**Currently**, I’m focused on building robust data pipelines and cost-efficient solutions, blending cloud services (AWS) and on-premise (Raspberry Pi clusters) to deliver end-to-end systems. My goal is to bridge the gap between complex data engineering and practical user needs, so everyone can benefit from cutting-edge technology.
+Currently, I want to develop a platform that makes it easy for anyone to collect and handle complex data, bridging the gap between raw information and real-life solutions. I hope to focus on accessible data engineering that benefits people’s daily needs without being overly complicated.
 
 ---
 
@@ -70,7 +65,3 @@
 - **LinkedIn**: [[linkedin.com/in/ilhan-yu](https://www.linkedin.com/in/ilhan-yu-8b3a6b2b9/)
 - **Email**: [yih5025@gmail.com](mailto:yih5025@gmail.com)
 - **Website**: [[dont-make-excuses](https://dont-make-excuses.tistory.com/)]
-
-<p align="center">
-  <i>“Bringing machine learning from concept to production, one step at a time.”</i>
-</p>
