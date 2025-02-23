@@ -2,7 +2,6 @@
 <!-- <img src="https://your-banner-image.jpg" alt="Banner" style="width:100%;"/> -->
 
 <h1>Ilhan Yu - Data Engineer</h1>
----
 
 ## 🔭 Recent Projects
 
