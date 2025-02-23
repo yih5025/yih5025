@@ -11,9 +11,7 @@
 
 ## 🔭 Recent Projects
 
-## <img src="https://img.icons8.com/emoji/48/rocket" width="28" style="vertical-align:middle"/> Recent Projects
-
-### 1. **Cryptocurrency Mock Investment Game**
+### 1. **Cryptocurrency Mock Investment Game** - https://www.coinking.site/signin
 
 **Description**: A web-based mock investment game that uses real-time cryptocurrency data for fun and educational investing.
 
@@ -27,7 +25,7 @@
 
 ---
 
-### 2. **Large-Scale IoT Data Analysis Paper**
+### 2. **Large-Scale IoT Data Analysis Paper** - https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862340
 
 **Title**: "사물인터넷 환경 저비용 대용량 데이터 분석 시나리오 설계 및 성능 비교"  
 **Conference**: KCC2024 *(한국컴퓨터종합학술대회)*
@@ -43,43 +41,35 @@
 
 ## 💬 About Me
 
-- I have over three years of experience as a **Machine Learning Engineer**, with a focus on deploying AI solutions at scale.
-- I’m the CTO and co-founder of **Resia**, an AI-driven home renovation platform, where I integrated AWS services (S3, API Gateway, Lambda) to enhance scalability and security.
-- Previously at **NearthLab** and **SNUAILAB**, I built MLOps pipelines and custom models for detecting wind turbine cracks, achieving major performance improvements.
+- I’m a **Data Engineer** with experience building real-time data pipelines using **Kafka**, **Spark**, and **Hadoop**.
+- I also develop backend services, including **Spring**-based systems and **AWS Lambda/API Gateway**, to ensure scalability and reliability.
+- On the frontend side, I’m comfortable with **JavaScript**, **HTML**, and **CSS**.
+- For database solutions, I’ve worked with **DynamoDB**, **InfluxDB**, and **MySQL**, focusing on efficient data modeling and queries.
 
-**Tech Focus**: 
-- **Deep Learning**: PyTorch, TensorFlow, NVIDIA DeepStream, TensorRT  
-- **DevOps**: AWS (Sagemaker, Bedrock, Amplify), Docker, Jenkins, Airflow, Grafana  
-- **Frontend**: React, TypeScript, Next.js  
-- **Backend**: Node.js, Express, Python (Flask/FastAPI)  
-- **Databases**: DynamoDB, PostgreSQL, MongoDB  
+**Tech Focus**:
+- **Data Engineering**: Kafka, Spark, Hadoop
+- **Backend**: Spring, AWS Lambda, API Gateway
+- **Frontend**: JavaScript, HTML, CSS
+- **Databases**: DynamoDB, InfluxDB, MySQL
 
 ---
 
 ## 🌱 Mission
-> **“Illuminating the path to reducing technology gaps ensures everyone benefits from technological advancements.”**
+> "I strive to create data-driven solutions that truly solve problems, ensuring technology is both accessible and impactful for everyday life."
 
-**Currently**, I’m pursuing a Master’s in Engineering Management at the University of Texas at Austin. My goal is to push AI technology into practical, impactful use cases.
+**Currently**, I’m focused on building robust data pipelines and cost-efficient solutions, blending cloud services (AWS) and on-premise (Raspberry Pi clusters) to deliver end-to-end systems. My goal is to bridge the gap between complex data engineering and practical user needs, so everyone can benefit from cutting-edge technology.
 
 ---
 
 ## 🏆 Achievements
-- **Won Meta x AITX Hackathon**: Created an innovative interactive map solution (LINK).
-- **Published AI Tools**: Over 1.4k stars on open-source Memray RAG project.
-
----
-
-## ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=default" alt="YOUR_GITHUB_ID's GitHub stats"/>
-</p>
-
+- **Game Development Contest Winner**: Developed a real-time cryptocurrency mock investment game, earning first prize.
+- **Best Paper Award at KCC2024**: Authored a paper on low-cost IoT-based big data analysis with Raspberry Pi clusters and Spark.
 ---
 
 ## 🤝 Contact 
-- **LinkedIn**: [linkedin.com/in/your-profile](#)
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **Website**: [your-website.com](https://your-website.com)
+- **LinkedIn**: [[linkedin.com/in/ilhan-yu](https://www.linkedin.com/in/ilhan-yu-8b3a6b2b9/)
+- **Email**: [yih5025@gmail.com](mailto:yih5025@gmail.com)
+- **Website**: [[dont-make-excuses](https://dont-make-excuses.tistory.com/)]
 
 <p align="center">
   <i>“Bringing machine learning from concept to production, one step at a time.”</i>
