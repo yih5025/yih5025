@@ -11,18 +11,33 @@
 
 ## 🔭 Recent Projects
 
-### **1. Full-Stack AI Website - [Resia.design](https://resia.design)**
-- One-stop remodeling solution with AI
-- **Tech Stack:** React, Node.js, AWS (Lambda, API Gateway), DynamoDB
-- **Key Features:** 
-  - Real-time user data analysis
-  - Cost-efficient architecture via serverless design
-  - Automated pipeline for data ingestion
+## <img src="https://img.icons8.com/emoji/48/rocket" width="28" style="vertical-align:middle"/> Recent Projects
 
-### **2. Meta x AITX Hackathon** 
-- **Project Link:** [LinkedIn](#) | [Code](#)
-- Unravel Stories One Map at a Time
-- Built with React, JavaScript, AWS Amplify
+### 1. **Cryptocurrency Mock Investment Game**
+
+**Description**: A web-based mock investment game that uses real-time cryptocurrency data for fun and educational investing.
+
+**Tech Stack**: <img src="https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Lambda-grey?style=for-the-badge&logo=awslambda&logoColor=FF9900"/> <img src="https://img.shields.io/badge/API%20Gateway-grey?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/> <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+**Key Features**:
+- Real-time data ingestion of up to **20,000 records per minute**
+- Automated pipeline for data collection and analysis
+- **Serverless backend** to reduce costs and simplify management
+- **Won first prize** in a game development contest
+
+---
+
+### 2. **Large-Scale IoT Data Analysis Paper**
+
+**Title**: "사물인터넷 환경 저비용 대용량 데이터 분석 시나리오 설계 및 성능 비교"  
+**Conference**: KCC2024 *(한국컴퓨터종합학술대회)*
+
+**Key Highlights**:
+- Built a **low-cost Raspberry Pi cluster** running Hadoop (HDFS, Yarn) and Spark (DataFrame)
+- Collected and analyzed **22 years of fine dust data** from AirKorea
+- Compared performance of Spark and Pandas on **Raspberry Pi cluster vs. a standard PC**
+- Achieved **Best Paper Award** in the undergraduate division
+
 
 ---
 
