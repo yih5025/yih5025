@@ -1,6 +1,3 @@
-![papar_ML_2](https://github.com/user-attachments/assets/c6134828-e536-4c46-8282-450a276fd2ab)<!-- 헤더 이미지나 배너 이미지가 있다면 추가해 주세요 -->
-<!-- <img src="https://your-banner-image.jpg" alt="Banner" style="width:100%;"/> -->
-
 # Ilhan Yu - Data Engineer 
 
 ## Recent Projects
@@ -76,7 +73,7 @@ I computed the time that took to analyze certain size of data in four different 
 
 > So then I used less amount of data for experiment - Pandas on a normal desktop PC showed best performance, followed by Spark on a normal desktop PC, then Spark on a RPi cluster, and then Spark on single RPi.
 
-<img src="https://private-user-images.githubusercontent.com/22254061/416478650-f8812407-c462-4926-aed5-874ae7e91cd4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA0NTg0MjgsIm5iZiI6MTc0MDQ1ODEyOCwicGF0aCI6Ii8yMjI1NDA2MS80MTY0Nzg2NTAtZjg4MTI0MDctYzQ2Mi00OTI2LWFlZDUtODc0YWU3ZTkxY2Q0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI1VDA0MzUyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmNzAwZjczZjFmNTlmN2YyYTg1ODM5ZWY3NjQ3ZDc4NjQ0ZDc3YmQzNWFhZGZkOGViMTEzYjdhY2E1ZDRkYTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7AFCMIalGnhT6LB-e32dqrVfYvY9RrXq2f_uqxzt_FA" width="600">
+<img src="./assets/papar_ML_2.png" width="600">
 
 > I tried linear regression to predict PM using Scikit-learn and Spark ML. Similar to the experiment result above, when it comes to big data, Pandas and Scikit-learn failed due to OOM, and Spark on RPi cluster succesfully completed machine learning as well as data analysis.
 
