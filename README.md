@@ -18,7 +18,7 @@
 
 #### 🎮 **Game Play: [CoinKing](https://www.coinking.site/signin)**
 
-#### 🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering)
+#### 🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering), [Organization BE Repo](https://github.com/SCHU-CoinGame/BackEnd)
 
 #### **More Details:** [Tech Blog Post](https://dont-make-excuses.tistory.com/18)
 
