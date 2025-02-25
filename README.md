@@ -20,10 +20,10 @@
 #### 🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering), [Organization BE Repo](https://github.com/SCHU-CoinGame/BackEnd)
 #### **More Details:** [Tech Blog Post](https://dont-make-excuses.tistory.com/18)
 ### **DataPipe Line Architecture**
-<img src="./assets/pipeline.jpg" alt="CoinGame DataPipeline Architecture" width="800"/>
+<img src="./assets/pipeline.jpg" alt="CoinGame DataPipeline Architecture" width="600"/>
 
 ### **In-Game Screenshot**
-<img src="./assets/ingame.png" alt="CoinGame In-Game Screenshot" width="800"/>
+<img src="./assets/ingame.png" alt="CoinGame In-Game Screenshot" width="600"/>
 
 ### **On-Premise Distributed Kafka & Spark Cluster Setup**
 <img src="./assets/cluster.png" width="400">
