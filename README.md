@@ -26,7 +26,7 @@
 ### 🎮 **Game Play: [CoinKing](https://www.coinking.site/signin)**
 ### 🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering)
 ## DataPipe Line Architecture
-<img src="https://private-user-images.githubusercontent.com/22254061/416473993-47f93aee-e8c5-4927-89c6-9852fd4e3f72.jpg" alt="CoinGame DataPipeline Architecture" width="600"/>
+<img src="[https://private-user-images.githubusercontent.com/22254061/416473993-47f93aee-e8c5-4927-89c6-9852fd4e3f72.jpg](https://private-user-images.githubusercontent.com/22254061/416473993-47f93aee-e8c5-4927-89c6-9852fd4e3f72.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA0NTcwODgsIm5iZiI6MTc0MDQ1Njc4OCwicGF0aCI6Ii8yMjI1NDA2MS80MTY0NzM5OTMtNDdmOTNhZWUtZThjNS00OTI3LTg5YzYtOTg1MmZkNGUzZjcyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI1VDA0MTMwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmZjA0MjYxMzMwYmJjNzAxYjE3YjdhNmM1NTNiYzkxMTI0ZDA1ZTAyMTg5ZmQyNTE2Yjk3MWE4MDVhMzA3ZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NyzBVVKL4zu90bqrN-sV6thZwZgudbcvB86iwrnoZjo)" alt="CoinGame DataPipeline Architecture" width="600"/>
 
 ## In-Game Screenshot
 <img src="https://private-user-images.githubusercontent.com/22254061/416475530-4e41c9e1-1eb3-4e92-8d7c-1e5bfd8d69eb.png" alt="CoinGame In-Game Screenshot" width="600"/>
