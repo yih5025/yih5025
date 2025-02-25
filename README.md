@@ -25,7 +25,7 @@
 - **Won first prize** in a game development contest
 
 🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering)
-
+![CoinGame DataPipeline Architecture](https://private-user-images.githubusercontent.com/22254061/416473993-47f93aee-e8c5-4927-89c6-9852fd4e3f72.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA0NTQyNDIsIm5iZiI6MTc0MDQ1Mzk0MiwicGF0aCI6Ii8yMjI1NDA2MS80MTY0NzM5OTMtNDdmOTNhZWUtZThjNS00OTI3LTg5YzYtOTg1MmZkNGUzZjcyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI1VDAzMjU0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiZTk1ZDg3ZmFlMzdmOTE2Mjg3M2JkNmZlY2MzY2UyNzE0YjcxNTIyMDQ2YzA4YmI1OTM3MjBlODEwYmE3MmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Qi01DNcw_vcuNWDbsyCVCEm1EM7Pck5Q7oGN5l5BMfQ)
 ---
 
 ### 2. **Large-Scale IoT Data Analysis Paper** - [Paper-DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862340)
