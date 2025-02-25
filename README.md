@@ -72,6 +72,7 @@ Currently, I want to develop a platform that makes it easy for anyone to collect
 
 ## 🏆 Achievements
 - **Game Development Contest Winner**: Developed a real-time cryptocurrency mock investment game, earning first prize.
+- **APP Development Contest Winner**: Developed a "1 Dollor Breakfast" users monitoring app, earning first prize.
 - **Best Paper Award at KCC2024**: Authored a paper on low-cost IoT-based big data analysis with Raspberry Pi clusters and Spark.
 ---
 
