@@ -24,6 +24,8 @@
 - **Serverless backend** to reduce costs and simplify management
 - **Won first prize** in a game development contest
 
+🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering)
+
 ---
 
 ### 2. **Large-Scale IoT Data Analysis Paper** - [Paper-DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862340)
