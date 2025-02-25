@@ -23,6 +23,8 @@
 
 #### 🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering)
 
+#### **More Details:** [Tech Blog Post](https://dont-make-excuses.tistory.com/18)
+
 #### **DataPipe Line Architecture**
 <img src="https://private-user-images.githubusercontent.com/22254061/416473993-47f93aee-e8c5-4927-89c6-9852fd4e3f72.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA0NTcwODgsIm5iZiI6MTc0MDQ1Njc4OCwicGF0aCI6Ii8yMjI1NDA2MS80MTY0NzM5OTMtNDdmOTNhZWUtZThjNS00OTI3LTg5YzYtOTg1MmZkNGUzZjcyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI1VDA0MTMwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmZjA0MjYxMzMwYmJjNzAxYjE3YjdhNmM1NTNiYzkxMTI0ZDA1ZTAyMTg5ZmQyNTE2Yjk3MWE4MDVhMzA3ZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NyzBVVKL4zu90bqrN-sV6thZwZgudbcvB86iwrnoZjo" alt="CoinGame DataPipeline Architecture" width="800"/>
 
@@ -52,6 +54,8 @@
 - Collected and analyzed **22-year particulate matter data** from AirKorea
 - Compared performance of Spark and Pandas on **Raspberry Pi cluster vs. a standard PC**
 - Achieved **Best Paper Award** in the undergraduate division
+
+#### **More Details:** [Tech Blog - Paper Category](https://dont-make-excuses.tistory.com/category/%EB%85%BC%EB%AC%B8)
 
 ### **Low-Cost IoT Device Based Cluster Setup**
 <img src="https://private-user-images.githubusercontent.com/22254061/416486024-42268585-3143-485c-a2a6-f25e1ecdccf1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA0NTgyNTAsIm5iZiI6MTc0MDQ1Nzk1MCwicGF0aCI6Ii8yMjI1NDA2MS80MTY0ODYwMjQtNDIyNjg1ODUtMzE0My00ODVjLWEyYTYtZjI1ZTFlY2RjY2YxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI1VDA0MzIyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVhNDMyOTRjZmQ4NWIxM2RkZDNkMzQ2ZTQwNzlmNGE4Y2ZhNDFlZDVjMTc3NDRiNmJhYTI0ODY3ZjA2YjNkNGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.heVHt7ITjSDsz7FxYzaJ3niWV3qaiOLysG5Zs2tNzkI" width="600">
@@ -118,4 +122,4 @@ Currently, I want to develop a platform that makes it easy for anyone to collect
 ## 🤝 Contact 
 - **LinkedIn**: [linkedin.com/in/ilhan-yu](https://www.linkedin.com/in/ilhan-yu-8b3a6b2b9/)
 - **Email**: [yih5025@gmail.com](mailto:yih5025@gmail.com)
-- **Website**: [dont-make-excuses](https://dont-make-excuses.tistory.com/)
+- **Tech Blog**: [dont-make-excuses](https://dont-make-excuses.tistory.com/)
