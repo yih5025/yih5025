@@ -85,18 +85,18 @@ I computed the time that took to analyze certain size of data in four different 
 ---
 
 ## 💬 About Me
-### Korean Resume: [Korean Resume](https://pear-cart-523.notion.site/512f05abdca74a98963f7d92fe5fe073?pvs=4)
 - I’m a **Data Engineer** with experience building real-time data pipelines using **Kafka**, **Spark**, and **Hadoop**.
 - I also developed backend services, including **Spring**-based systems and **AWS Lambda/API Gateway**, to ensure scalability and reliability.
 - On the frontend side, I’m comfortable with **JavaScript**, **HTML**, and **CSS**.
 - For database solutions, I’ve worked with **DynamoDB**, **InfluxDB**, and **MySQL**, focusing on efficient data modeling and queries.
-
+  
 **Tech Focus**:
 - **Data Engineering**: Kafka, Spark, Hadoop, ELT, ETL Pipeline
 - **Backend**: Spring, AWS Lambda, API Gateway
 - **Frontend**: JavaScript, HTML, CSS
 - **Databases**: DynamoDB, InfluxDB, MySQL
 
+### Korean Resume: [Korean Resume](https://pear-cart-523.notion.site/512f05abdca74a98963f7d92fe5fe073?pvs=4)
 ---
 
 ## 🌱 Mission
