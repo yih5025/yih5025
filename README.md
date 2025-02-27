@@ -25,7 +25,7 @@
 ### **In-Game Screenshot**
 <img src="./assets/ingame.png" alt="CoinGame In-Game Screenshot" width="600"/>
 
-### **On-Premise Distributed Kafka & Spark Cluster Setup**
+### **On-Premise Distributed Kafka & Spark Cluster Setup** (RaspberryPi 5, LattePanda Delta/Sigma)
 <img src="./assets/cluster.png" width="400">
 
 ---
