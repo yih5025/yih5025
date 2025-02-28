@@ -29,6 +29,9 @@
 ### **On-Premise Distributed Kafka & Spark Cluster Setup** (RaspberryPi 5, LattePanda Delta/Sigma)
 <img src="./assets/cluster.png" width="400">
 
+### **Showcased the Game at University**
+
+
 ---
 
 ### 2. **Large-Scale IoT Data Analysis Paper**
