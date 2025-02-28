@@ -92,7 +92,7 @@ I computed the time that took to analyze certain size of data in four different 
 - For database solutions, I’ve worked with **DynamoDB**, **InfluxDB**, and **MySQL**, focusing on efficient data modeling and queries.
   
 **Tech Focus**:
-- **Data Engineering**: Kafka, Spark, Hadoop, ELT, ETL Pipeline
+- **Data Engineering**: Kafka, Spark, Hadoop, Designed ELT/ETL Data Pipeline
 - **Backend**: Spring, AWS Lambda, API Gateway
 - **Frontend**: JavaScript, HTML, CSS
 - **Databases**: DynamoDB, InfluxDB, MySQL
