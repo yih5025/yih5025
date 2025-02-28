@@ -48,7 +48,7 @@
 - Built a **low-cost Raspberry Pi cluster** using Hadoop (HDFS, Yarn) and Spark (DataFrame)
 - Collected and analyzed **22-year particulate matter data** from AirKorea
 - Compared performance of Spark and Pandas on **Raspberry Pi cluster vs. a standard PC**
-- Achieved **Best Paper Award** in the undergraduate division
+- Achieved **Best Student Paper** at the Korean Computer Conference 2024
 
 #### **More Details:** [Tech Blog - Paper Category](https://dont-make-excuses.tistory.com/category/%EB%85%BC%EB%AC%B8)
 
