@@ -14,12 +14,13 @@
 - Real-time data ingestion of up to **30,000 records per minute**
 - Automated pipeline for data collection and analysis
 - **Serverless backend** to reduce costs and simplify management
+- To address cloud service cost issues, I replaced AWS EMR with an on-premises distributed computing environment, reducing server costs by **94% ($139.10 → $7 per month)**
 - **Won first prize** in a game development contest
 
 #### 🎮 **Game Play: [CoinKing](https://www.coinking.site/signin)**
 #### 🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering), [Organization BE Repo](https://github.com/SCHU-CoinGame/BackEnd)
 #### **More Details:** [Tech Blog Post](https://dont-make-excuses.tistory.com/18)
-### **DataPipe Line Architecture**
+### **Designed DataPipe Line Architecture**
 <img src="./assets/pipeline.jpg" alt="CoinGame DataPipeline Architecture" width="600"/>
 
 ### **In-Game Screenshot**
