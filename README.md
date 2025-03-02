@@ -21,13 +21,13 @@
 #### 🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering), [Organization BE Repo](https://github.com/SCHU-CoinGame/BackEnd)
 #### **More Details:** [Tech Blog Post](https://dont-make-excuses.tistory.com/18)
 ### **Designed DataPipe Line Architecture**
-<img src="./assets/pipeline.jpg" alt="CoinGame DataPipeline Architecture" width="600"/>
+<img src="./assets/pipeline.jpg" alt="CoinGame DataPipeline Architecture" width="1000"/>
 
 ### **In-Game Screenshot**
-<img src="./assets/ingame.png" alt="CoinGame In-Game Screenshot" width="600"/>
+<img src="./assets/ingame.png" alt="CoinGame In-Game Screenshot" width="1000"/>
 
 ### **On-Premise Distributed Cluster Setup** / **Showcased the Game at University**
-<img src="./assets/cluster.png" width="300"> <img src="./assets/playgame.jpeg" width="300">
+<img src="./assets/cluster.png" width="500"> <img src="./assets/playgame.jpeg" width="500">
 
 ---
 
@@ -81,7 +81,7 @@ I computed the time that took to analyze certain size of data in four different 
 + Resolved the necessity of costly servers in IoT environments for big data analysis and machine learning
 
 ### **KCC2024 Poster**
-<img src="./assets/poster.png" width=400>
+<img src="./assets/poster.png" width=600>
 
 ---
 
