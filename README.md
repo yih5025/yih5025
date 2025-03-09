@@ -1,6 +1,6 @@
 # Ilhan Yu - Data Engineer 
 
-## 📄 Korean Resume: [Korean Resume](https://pear-cart-523.notion.site/512f05abdca74a98963f7d92fe5fe073?pvs=4) / English Resume: [English Resume](assets/IlhanYu_Resume.pdf)
+**📄 Korean Resume: [Korean Resume](https://pear-cart-523.notion.site/512f05abdca74a98963f7d92fe5fe073?pvs=4) & English Resume: [English Resume](assets/IlhanYu_Resume.pdf)**
 
 ## 🛠️ Projects
 
@@ -111,11 +111,12 @@ I computed the time that took to analyze certain size of data in four different 
 
 ---
 ### 4. **Assistive Device for the Visually Impaired Using NFC, OCR and Object Detection**
-<img src="./assets/voicememo1.jpg" width="500"/> <img src="./assets/voicememo2.jpg" width="500"/>
-<img src="./assets/voicememo5.jpg" width="500"/> <img src="./assets/voicememo6.jpg" width="500"/>
-<img src="./assets/voicememo3.jpg" width="600"/>
 
 [Demo Video](https://youtu.be/uVzv5m8E1PE?si=lztpBMtm8oQlKLba)
+
+<img src="./assets/voicememo1.jpg" width="500"/>
+<img src="./assets/voicememo5.jpg" width="500"/> <img src="./assets/voicememo6.jpg" width="500"/>
+<img src="./assets/voicememo4.jpg" width="500"/> <img src="./assets/voicememo8.png" width="500"/>
 
 ---
 
