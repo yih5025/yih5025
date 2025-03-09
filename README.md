@@ -1,5 +1,7 @@
 # Ilhan Yu - Data Engineer 
 
+## 📄 Korean Resume: [Korean Resume](https://pear-cart-523.notion.site/512f05abdca74a98963f7d92fe5fe073?pvs=4) / English Resume: [English Resume](assets/IlhanYu_Resume.pdf)
+
 ## Recent Projects
 
 ### 1. **Cryptocurrency Mock Investment Game**
@@ -93,11 +95,10 @@ I computed the time that took to analyze certain size of data in four different 
   
 **Tech Focus**:
 - **Data Engineering**: Kafka, Spark, Hadoop, Designed ELT/ETL Data Pipeline
+- **Data Analysis**: Spark DataFrame, Pandas
 - **Backend**: Spring, AWS Lambda, API Gateway
 - **Frontend**: JavaScript, HTML, CSS
 - **Databases**: DynamoDB, InfluxDB, MySQL
-
-### Korean Resume: [Korean Resume](https://pear-cart-523.notion.site/512f05abdca74a98963f7d92fe5fe073?pvs=4)
 ---
 
 ## 🌱 Mission
