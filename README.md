@@ -19,9 +19,10 @@
 - To address cloud service cost issues, I replaced AWS EMR with an on-premises distributed computing environment, reducing server costs by **94% ($139.10 → $7 per month)**
 - **Won first prize** in a game development contest
 
+#### 📹 **Game Demo Video: [Game Video](https://youtu.be/REJ2J8oUgwQ?si=xgPsktEdx1rFc1Sq)**
 #### 🎮 **Game Play: [CoinKing](https://www.coinking.site/signin)**
 #### 🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering), [Organization BE Repo](https://github.com/SCHU-CoinGame/BackEnd)
-**🏆 Award: Game Development Contest top prize**
+#### 🏆 **Award: Game Development Contest top prize**
 #### **More Details:** [Tech Blog Post](https://dont-make-excuses.tistory.com/18)
 ### 👨🏻‍🔧 **Designed DataPipe Line Architecture**
 <img src="./assets/pipeline.jpg" alt="CoinGame DataPipeline Architecture" width="1000"/>
@@ -31,12 +32,12 @@
 <img src="./assets/coingame1.png" alt="CoinGame In-Game Screenshot" width="1000"/>
 
 ### **On-Premise Distributed Cluster Setup** / **Showcased the Game at University**
-<img src="./assets/cluster.png" width="300"> <img src="./assets/playgame.jpeg" width="300">
+<img src="./assets/cluster.png" width="400"> <img src="./assets/playgame.jpeg" width="400">
 
 ---
 
 ### 2. **Large-Scale IoT Data Analysis Paper**
-**Paper Link:** [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862340)
+#### **Paper Link:** [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862340)
 
 **Tech Stack**: 
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
@@ -45,9 +46,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-**Title**: "사물인터넷 환경 저비용 대용량 데이터 분석 시나리오 설계 및 성능 비교"  
-**Conference**: KCC2024 *(한국컴퓨터종합학술대회)*
-**🏆 Award: Best Student Paper Award at KCC2024**
+#### **Title**: "사물인터넷 환경 저비용 대용량 데이터 분석 시나리오 설계 및 성능 비교"  
+#### **Conference**: KCC2024 *(한국컴퓨터종합학술대회)*
+#### **🏆 Award: Best Student Paper Award at KCC2024**
 
 **Key Highlights**:
 - Built a **low-cost Raspberry Pi cluster** using Hadoop (HDFS, Yarn) and Spark (DataFrame)
@@ -115,20 +116,21 @@ I computed the time that took to analyze certain size of data in four different 
 
 **Description:** Voice Memo. is an assistive technology platform designed to help visually impaired individuals easily access information about objects. By leveraging object detection, OCR, and voice recording, the application allows users to capture information about items (via NFC stickers) and listen to audio memos detailing object-specific information.
 
-[Demo Video](https://youtu.be/uVzv5m8E1PE?si=lztpBMtm8oQlKLba)
+#### **Demo Video: [Demo Video](https://youtu.be/uVzv5m8E1PE?si=lztpBMtm8oQlKLba)**
 
 #### **Tech Stack:**
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Google%20ML-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ML" /> <img src="https://img.shields.io/badge/Fusion360-007ACC?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion360" />
-
 
 #### **Key Features** 
 - **Google ML API:** for object detection and OCR  
 - **Raspberry Pi & NFC Modules:** for IoT-based voice memo storage  
 - **TCP Socket Communication:** for data transfer between devices
 
-<img src="./assets/voicememo10.png" width="400"/> <img src="./assets/voicememo1.jpg" width="400"/>
+#### **More Details:** [Tech Blog - VoiceMemo](https://dont-make-excuses.tistory.com/9)
+
+<img src="./assets/voicememo10.png" width="335"/> <img src="./assets/voicememo1.jpg" width="400"/>
 <img src="./assets/voicememo9.jpg" width="800"/>
-<img src="./assets/voicememo3.jpg" width="400"/> <img src="./assets/voicememo4.jpg" width="400"/>
+<img src="./assets/voicememo3.jpg" width="370"/> <img src="./assets/voicememo4.jpg" width="400"/>
 
 ---
 
