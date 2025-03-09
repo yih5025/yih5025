@@ -14,10 +14,10 @@
 
 **Key Features**:
 - Real-time data ingestion of up to **30,000 records per minute**
-- Automated pipeline for data collection and analysis
+- Automated pipeline for data collection
 - **Serverless backend** to reduce costs and simplify management
 - To address cloud service cost issues, I replaced AWS EMR with an on-premises distributed computing environment, reducing server costs by **94% ($139.10 → $7 per month)**
-- **Won first prize** in a game development contest
+- Collected clickstream data to derive user data analysis
 
 #### 🎥 **Game Demo Video: [Game Video](https://youtu.be/REJ2J8oUgwQ?si=xgPsktEdx1rFc1Sq)**
 #### 🎮 **Game Play: [CoinKing](https://www.coinking.site/signin)**
