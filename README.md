@@ -7,7 +7,6 @@
 ### 1. **Cryptocurrency Mock Investment Game**
 
 **Description**: A web-based mock investment game that uses real-time cryptocurrency data for fun and educational investing.
-
 **Tech Stack**:
 
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20S3-orange?style=for-the-badge&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20Kinesis-8b4fff?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20API%20Gateway-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
@@ -23,11 +22,12 @@
 #### 🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering), [Organization BE Repo](https://github.com/SCHU-CoinGame/BackEnd)
 **🏆 Award: Game Development Contest top prize**
 #### **More Details:** [Tech Blog Post](https://dont-make-excuses.tistory.com/18)
-### **Designed DataPipe Line Architecture**
+### 👨🏻‍🔧 **Designed DataPipe Line Architecture**
 <img src="./assets/pipeline.jpg" alt="CoinGame DataPipeline Architecture" width="1000"/>
 
-### **In-Game Screenshot**
-<img src="./assets/ingame.png" alt="CoinGame In-Game Screenshot" width="1000"/>
+### 📈 **In-Game Screenshot**
+<img src="./assets/ingame.png" alt="CoinGame In-Game Screenshot" width="1000"/> 
+<img src="./assets/coingame1.png" alt="CoinGame In-Game Screenshot" width="1000"/>
 
 ### **On-Premise Distributed Cluster Setup** / **Showcased the Game at University**
 <img src="./assets/cluster.png" width="500"> <img src="./assets/playgame.jpeg" width="500">
@@ -46,7 +46,6 @@
 
 **Title**: "사물인터넷 환경 저비용 대용량 데이터 분석 시나리오 설계 및 성능 비교"  
 **Conference**: KCC2024 *(한국컴퓨터종합학술대회)*
-
 **🏆 Award: Best Student Paper Award at KCC2024**
 
 **Key Highlights**:
@@ -91,6 +90,22 @@ I computed the time that took to analyze certain size of data in four different 
 ---
 
 ### 3. **The Korean air pollution data Visualization**
+
+**Description:** A web-based application that collects and visualizes air pollution data from Korea’s public API (such as AirKorea). The site displays monthly trends in pollutants—including PM10, PM2.5, SO₂, NO₂, CO, and O₃—and provides users with the latest air quality indices for various regions. This helps users easily compare regional air quality and understand historical pollution patterns.
+
+#### **Tech Stack**
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/InfluxDB-000?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" /> <img src="https://img.shields.io/badge/Grafana-F26A21?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+#### **Key Features** 
+- **Visualization:** Graphical display of monthly air pollution trends for various regions.
+- **Real-Time Data Updates:** Fetches and updates current PM10, PM2.5, and other pollutant data.
+- **Regional Comparison:** Compare air quality indices across multiple regions in Korea.
+- **Historical Data Analytics:** Analyze past pollution trends and patterns.
+- **Seaching Regional Data:** Loads data into MYSQL and displays only data for a specific region in a table format.
+
+#### 🔗 **GitHub Repository:** [Korea Air Pollution Repo](https://github.com/yih5025/Korea-Air-Pollution)
+
+### **WebPage Screenshot: 종로구 대기오염 데이터**
 ![Air Pollution Image 1](https://raw.githubusercontent.com/yih5025/Korea-Air-Pollution/main/assets/image1.png)
 ![Air Pollution Image 2](https://raw.githubusercontent.com/yih5025/Korea-Air-Pollution/main/assets/image2.png)
 
