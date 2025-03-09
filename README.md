@@ -115,7 +115,7 @@ I computed the time that took to analyze certain size of data in four different 
 
 **Description:** Voice Memo. is an assistive technology platform designed to help visually impaired individuals easily access information about objects. By leveraging object detection, OCR, and voice recording, the application allows users to capture information about items (via NFC stickers) and listen to audio memos detailing object-specific information.
 
-#### 🎥 **Demo Video: [Demo Video](https://youtu.be/uVzv5m8E1PE?si=lztpBMtm8oQlKLba)**
+### 🎥 **Demo Video: [Demo Video](https://youtu.be/uVzv5m8E1PE?si=lztpBMtm8oQlKLba)**
 
 **Tech Stack:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Google%20ML-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ML" /> <img src="https://img.shields.io/badge/Fusion360-007ACC?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion360" />
 
