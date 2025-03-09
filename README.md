@@ -2,7 +2,7 @@
 
 ## 📄 Korean Resume: [Korean Resume](https://pear-cart-523.notion.site/512f05abdca74a98963f7d92fe5fe073?pvs=4) / English Resume: [English Resume](assets/IlhanYu_Resume.pdf)
 
-## Recent Projects
+## 🛠️ Projects
 
 ### 1. **Cryptocurrency Mock Investment Game**
 
@@ -21,6 +21,7 @@
 
 #### 🎮 **Game Play: [CoinKing](https://www.coinking.site/signin)**
 #### 🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering), [Organization BE Repo](https://github.com/SCHU-CoinGame/BackEnd)
+**🏆 Award: Game Development Contest top prize**
 #### **More Details:** [Tech Blog Post](https://dont-make-excuses.tistory.com/18)
 ### **Designed DataPipe Line Architecture**
 <img src="./assets/pipeline.jpg" alt="CoinGame DataPipeline Architecture" width="1000"/>
@@ -45,6 +46,8 @@
 
 **Title**: "사물인터넷 환경 저비용 대용량 데이터 분석 시나리오 설계 및 성능 비교"  
 **Conference**: KCC2024 *(한국컴퓨터종합학술대회)*
+
+**🏆 Award: Best Student Paper Award at KCC2024**
 
 **Key Highlights**:
 - Built a **low-cost Raspberry Pi cluster** using Hadoop (HDFS, Yarn) and Spark (DataFrame)
@@ -86,6 +89,14 @@ I computed the time that took to analyze certain size of data in four different 
 <img src="./assets/poster.png" width=600>
 
 ---
+### 3. **The Korean air pollution data Visualization**
+![Air Pollution Image 1](https://raw.githubusercontent.com/yih5025/Korea-Air-Pollution/main/assets/image1.png)
+![Air Pollution Image 2](https://raw.githubusercontent.com/yih5025/Korea-Air-Pollution/main/assets/image2.png)
+---
+### 4. **The Korean air pollution data Visualization**
+![Air Pollution Image 1](https://raw.githubusercontent.com/yih5025/Korea-Air-Pollution/main/assets/image1.png)
+![Air Pollution Image 2](https://raw.githubusercontent.com/yih5025/Korea-Air-Pollution/main/assets/image2.png)
+---
 
 ## 💬 About Me
 - I’m a **Data Engineer** with experience building real-time data pipelines using **Kafka**, **Spark**, and **Hadoop**.
@@ -109,8 +120,8 @@ Currently, I want to develop a platform that makes it easy for anyone to collect
 ---
 
 ## 🏆 Achievements
-- **Game Development Contest Winner**: Developed a real-time cryptocurrency mock investment game, earning first prize.
-- **App Development Contest Winner**: Developed a "1 Dollor Breakfast" users monitoring app, earning first prize.
+- **Game Development Contest Winner**: Developed a real-time cryptocurrency mock investment game, earning top prize.
+- **App Development Contest Winner**: Developed a "1 Dollor Breakfast" users monitoring app, earning top prize.
 - **SW Idea Contest Winner**: Suggested the idea of AI special agreement suggestion service for "Jeonse" contracts, earning second prize.
 - **Best Student Paper Award at KCC2024**: Authored a paper on low-cost IoT-based big data analysis with Raspberry Pi clusters, Spark & Hadoop.
 ---
