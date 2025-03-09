@@ -1,6 +1,6 @@
 # Ilhan Yu - Data Engineer 
 
-**📄 Korean Resume: [Korean Resume](https://pear-cart-523.notion.site/512f05abdca74a98963f7d92fe5fe073?pvs=4) & English Resume: [English Resume](assets/IlhanYu_Resume.pdf)**
+**📑 Korean Resume: [Korean Resume](https://pear-cart-523.notion.site/512f05abdca74a98963f7d92fe5fe073?pvs=4) & English Resume: [English Resume](assets/IlhanYu_Resume.pdf)**
 
 ## 🛠️ Projects
 
@@ -19,12 +19,12 @@
 - To address cloud service cost issues, I replaced AWS EMR with an on-premises distributed computing environment, reducing server costs by **94% ($139.10 → $7 per month)**
 - **Won first prize** in a game development contest
 
-#### 📹 **Game Demo Video: [Game Video](https://youtu.be/REJ2J8oUgwQ?si=xgPsktEdx1rFc1Sq)**
+#### 🎥 **Game Demo Video: [Game Video](https://youtu.be/REJ2J8oUgwQ?si=xgPsktEdx1rFc1Sq)**
 #### 🎮 **Game Play: [CoinKing](https://www.coinking.site/signin)**
 #### 🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering), [Organization BE Repo](https://github.com/SCHU-CoinGame/BackEnd)
 #### 🏆 **Award: Game Development Contest top prize**
 #### **More Details:** [Tech Blog Post](https://dont-make-excuses.tistory.com/18)
-### 👨🏻‍🔧 **Designed DataPipe Line Architecture**
+### 👨🏻‍🔧 **Designed Data Pipe Line Architecture**
 <img src="./assets/pipeline.jpg" alt="CoinGame DataPipeline Architecture" width="1000"/>
 
 ### 📈 **In-Game Screenshot**
@@ -37,7 +37,10 @@
 ---
 
 ### 2. **Large-Scale IoT Data Analysis Paper**
-#### **Paper Link:** [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862340)
+
+#### **Title**: "사물인터넷 환경 저비용 대용량 데이터 분석 시나리오 설계 및 성능 비교"  
+#### **Conference**: KCC2024 *(한국컴퓨터종합학술대회)*
+#### 🏆 **Award: Best Student Paper Award at KCC2024**
 
 **Tech Stack**: 
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
@@ -46,16 +49,13 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-#### **Title**: "사물인터넷 환경 저비용 대용량 데이터 분석 시나리오 설계 및 성능 비교"  
-#### **Conference**: KCC2024 *(한국컴퓨터종합학술대회)*
-#### **🏆 Award: Best Student Paper Award at KCC2024**
-
 **Key Highlights**:
 - Built a **low-cost Raspberry Pi cluster** using Hadoop (HDFS, Yarn) and Spark (DataFrame)
 - Collected and analyzed **22-year particulate matter data** from AirKorea
 - Compared performance of Spark and Pandas on **Raspberry Pi cluster vs. a standard PC**
 - Achieved **Best Student Paper** at the Korean Computer Congress 2024
 
+#### **Paper Link:** [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862340)
 #### **More Details:** [Tech Blog - Paper Category](https://dont-make-excuses.tistory.com/category/%EB%85%BC%EB%AC%B8)
 
 ### **Low-Cost IoT Device Based Cluster Setup**
@@ -95,8 +95,7 @@ I computed the time that took to analyze certain size of data in four different 
 
 **Description:** A web-based application that collects and visualizes air pollution data from Korea’s public API (such as AirKorea). The site displays monthly trends in pollutants—including PM10, PM2.5, SO₂, NO₂, CO, and O₃—and provides users with the latest air quality indices for various regions. This helps users easily compare regional air quality and understand historical pollution patterns.
 
-#### **Tech Stack:**
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/InfluxDB-000?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" /> <img src="https://img.shields.io/badge/Grafana-F26A21?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+**Tech Stack**: <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/InfluxDB-000?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" /> <img src="https://img.shields.io/badge/Grafana-F26A21?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
 #### **Key Features** 
 - **Visualization:** Graphical display of monthly air pollution trends for various regions.
@@ -107,7 +106,7 @@ I computed the time that took to analyze certain size of data in four different 
 
 #### 🔗 **GitHub Repository:** [Korea Air Pollution Repo](https://github.com/yih5025/Korea-Air-Pollution)
 
-### **WebPage Screenshot: 종로구 대기오염 데이터**
+### 💨 **WebPage Screenshot**
 ![Air Pollution Image 1](https://raw.githubusercontent.com/yih5025/Korea-Air-Pollution/main/assets/image1.png)
 ![Air Pollution Image 2](https://raw.githubusercontent.com/yih5025/Korea-Air-Pollution/main/assets/image2.png)
 
@@ -116,20 +115,24 @@ I computed the time that took to analyze certain size of data in four different 
 
 **Description:** Voice Memo. is an assistive technology platform designed to help visually impaired individuals easily access information about objects. By leveraging object detection, OCR, and voice recording, the application allows users to capture information about items (via NFC stickers) and listen to audio memos detailing object-specific information.
 
-#### **Demo Video: [Demo Video](https://youtu.be/uVzv5m8E1PE?si=lztpBMtm8oQlKLba)**
+#### 🎥 **Demo Video: [Demo Video](https://youtu.be/uVzv5m8E1PE?si=lztpBMtm8oQlKLba)**
 
-#### **Tech Stack:**
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Google%20ML-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ML" /> <img src="https://img.shields.io/badge/Fusion360-007ACC?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion360" />
+**Tech Stack:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Google%20ML-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ML" /> <img src="https://img.shields.io/badge/Fusion360-007ACC?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion360" />
 
 #### **Key Features** 
 - **Google ML API:** for object detection and OCR  
 - **Raspberry Pi & NFC Modules:** for IoT-based voice memo storage  
 - **TCP Socket Communication:** for data transfer between devices
 
-#### **More Details:** [Tech Blog - VoiceMemo](https://dont-make-excuses.tistory.com/9)
+#### 🔗 **More Details:** [Tech Blog - VoiceMemo](https://dont-make-excuses.tistory.com/9)
 
+### ⚙️ **3D Modeling / Raspiberry Pi & NFC Module**
 <img src="./assets/voicememo10.png" width="335"/> <img src="./assets/voicememo1.jpg" width="400"/>
+
+### **Service Architecture**
 <img src="./assets/voicememo9.jpg" width="800"/>
+
+### 📱 **App Feature Description**
 <img src="./assets/voicememo3.jpg" width="370"/> <img src="./assets/voicememo4.jpg" width="400"/>
 
 ---
