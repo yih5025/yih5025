@@ -7,6 +7,7 @@
 ### 1. **Cryptocurrency Mock Investment Game**
 
 **Description**: A web-based mock investment game that uses real-time cryptocurrency data for fun and educational investing.
+
 **Tech Stack**:
 
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20S3-orange?style=for-the-badge&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20Kinesis-8b4fff?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20API%20Gateway-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
@@ -30,7 +31,7 @@
 <img src="./assets/coingame1.png" alt="CoinGame In-Game Screenshot" width="1000"/>
 
 ### **On-Premise Distributed Cluster Setup** / **Showcased the Game at University**
-<img src="./assets/cluster.png" width="500"> <img src="./assets/playgame.jpeg" width="500">
+<img src="./assets/cluster.png" width="300"> <img src="./assets/playgame.jpeg" width="300">
 
 ---
 
@@ -93,7 +94,7 @@ I computed the time that took to analyze certain size of data in four different 
 
 **Description:** A web-based application that collects and visualizes air pollution data from Korea’s public API (such as AirKorea). The site displays monthly trends in pollutants—including PM10, PM2.5, SO₂, NO₂, CO, and O₃—and provides users with the latest air quality indices for various regions. This helps users easily compare regional air quality and understand historical pollution patterns.
 
-#### **Tech Stack**
+#### **Tech Stack:**
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/InfluxDB-000?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" /> <img src="https://img.shields.io/badge/Grafana-F26A21?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
 #### **Key Features** 
@@ -110,13 +111,24 @@ I computed the time that took to analyze certain size of data in four different 
 ![Air Pollution Image 2](https://raw.githubusercontent.com/yih5025/Korea-Air-Pollution/main/assets/image2.png)
 
 ---
-### 4. **Assistive Device for the Visually Impaired Using NFC, OCR and Object Detection**
+### 4. **Assistive Device for the Visually Impaired Using NFC, OCR and Object Detection(Voice Memo.)**
+
+**Description:** Voice Memo. is an assistive technology platform designed to help visually impaired individuals easily access information about objects. By leveraging object detection, OCR, and voice recording, the application allows users to capture information about items (via NFC stickers) and listen to audio memos detailing object-specific information.
 
 [Demo Video](https://youtu.be/uVzv5m8E1PE?si=lztpBMtm8oQlKLba)
 
-<img src="./assets/voicememo1.jpg" width="500"/>
-<img src="./assets/voicememo5.jpg" width="500"/> <img src="./assets/voicememo6.jpg" width="500"/>
-<img src="./assets/voicememo4.jpg" width="500"/> <img src="./assets/voicememo8.png" width="500"/>
+#### **Tech Stack:**
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Google%20ML-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ML" /> <img src="https://img.shields.io/badge/Fusion360-007ACC?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion360" />
+
+
+#### **Key Features** 
+- **Google ML API:** for object detection and OCR  
+- **Raspberry Pi & NFC Modules:** for IoT-based voice memo storage  
+- **TCP Socket Communication:** for data transfer between devices
+
+<img src="./assets/voicememo10.png" width="400"/> <img src="./assets/voicememo1.jpg" width="400"/>
+<img src="./assets/voicememo9.jpg" width="800"/>
+<img src="./assets/voicememo3.jpg" width="400"/> <img src="./assets/voicememo4.jpg" width="400"/>
 
 ---
 
