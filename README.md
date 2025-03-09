@@ -89,13 +89,19 @@ I computed the time that took to analyze certain size of data in four different 
 <img src="./assets/poster.png" width=600>
 
 ---
+
 ### 3. **The Korean air pollution data Visualization**
 ![Air Pollution Image 1](https://raw.githubusercontent.com/yih5025/Korea-Air-Pollution/main/assets/image1.png)
 ![Air Pollution Image 2](https://raw.githubusercontent.com/yih5025/Korea-Air-Pollution/main/assets/image2.png)
+
 ---
-### 4. **The Korean air pollution data Visualization**
-![Air Pollution Image 1](https://raw.githubusercontent.com/yih5025/Korea-Air-Pollution/main/assets/image1.png)
-![Air Pollution Image 2](https://raw.githubusercontent.com/yih5025/Korea-Air-Pollution/main/assets/image2.png)
+### 4. **Assistive Device for the Visually Impaired Using NFC, OCR and Object Detection**
+<img src="./assets/voicememo1.jpg" width="500"/> <img src="./assets/voicememo2.jpg" width="500"/>
+<img src="./assets/voicememo5.jpg" width="500"/> <img src="./assets/voicememo6.jpg" width="500"/>
+<img src="./assets/voicememo3.jpg" width="600"/>
+
+[Demo Video](https://youtu.be/uVzv5m8E1PE?si=lztpBMtm8oQlKLba)
+
 ---
 
 ## 💬 About Me
