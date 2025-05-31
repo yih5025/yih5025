@@ -13,14 +13,14 @@
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20S3-orange?style=for-the-badge&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20Kinesis-8b4fff?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20API%20Gateway-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
 
 **Key Features**:
-- Real-time data ingestion of up to **30,000 records per minute**
+- Real-time data ingestion of up to **900,000 records per minute**
 - Automated pipeline for data collection
 - **Serverless backend** to reduce costs and simplify management
-- To address cloud service cost issues, I replaced AWS EMR with an on-premises distributed computing environment, reducing server costs by **94% ($139.10 → $7 per month)**
+- To address cloud service cost issues, I replaced AWS EMR with an on-premises distributed computing environment, reducing server costs by **94% ($140 → $7 per month)**
 - Collected clickstream data to derive user data analysis
 
 #### 🎥 **Game Demo Video: [Game Video](https://youtu.be/REJ2J8oUgwQ?si=xgPsktEdx1rFc1Sq)**
-#### 🎮 **Game Play: [CoinKing](https://www.coinking.site/signin)**
+#### 🎮 **Game Play: [CoinKing](https://www.coinking.site/signin)** (Only PC, AI / DataAnalyze X)
 #### 🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering), [Organization BE Repo](https://github.com/SCHU-CoinGame/BackEnd)
 #### 🏆 **Award: Game Development Contest top prize**
 #### **More Details:** [Tech Blog Post](https://dont-make-excuses.tistory.com/18)
