@@ -1,7 +1,5 @@
 # Ilhan Yu - Data Engineer / Full Stack Developer
 
-**📑 Korean Resume: [Korean Resume](https://pear-cart-523.notion.site/512f05abdca74a98963f7d92fe5fe073?pvs=4) & English Resume: [English Resume](assets/IlhanYu_Resume.pdf)**
-
 ## 🛠️ Projects
 
 ### 1. **Cryptocurrency Mock Investment Game**
