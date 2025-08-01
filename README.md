@@ -1,4 +1,4 @@
-# Ilhan Yu - Data Engineer / Full Stack Developer
+# Ilhan Yu - Data Engineer
 
 ## 🛠️ Projects
 
