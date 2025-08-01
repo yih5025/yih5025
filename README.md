@@ -18,7 +18,6 @@
 - Collected clickstream data to derive user data analysis
 
 #### 🎥 **Game Demo Video: [Game Video](https://youtu.be/REJ2J8oUgwQ?si=xgPsktEdx1rFc1Sq)**
-#### 🎮 **Game Play: [CoinKing](https://www.coinking.site/signin)** (Only PC, AI / DataAnalyze X)
 #### 🔗 **GitHub Repository:** [Organization DE Repo](https://github.com/SCHU-CoinGame/DataEngineering), [Organization BE Repo](https://github.com/SCHU-CoinGame/BackEnd)
 #### 🏆 **Award: Game Development Contest top prize**
 #### **More Details:** [Tech Blog Post](https://dont-make-excuses.tistory.com/18)
