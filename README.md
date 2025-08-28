@@ -28,9 +28,6 @@
 <img src="./assets/ingame.png" alt="CoinGame In-Game Screenshot" width="1000"/> 
 <img src="./assets/coingame1.png" alt="CoinGame In-Game Screenshot" width="1000"/>
 
-### **On-Premise Distributed Cluster Setup** / **Showcased the Game at University**
-<img src="./assets/cluster.png" width="400"> <img src="./assets/playgame.jpeg" width="400">
-
 ---
 
 ### 2. **Large-Scale IoT Data Analysis Paper**
@@ -122,9 +119,6 @@ I computed the time that took to analyze certain size of data in four different 
 - **TCP Socket Communication:** for data transfer between devices
 
 #### 🔗 **More Details:** [Tech Blog - VoiceMemo](https://dont-make-excuses.tistory.com/9)
-
-### ⚙️ **3D Modeling / Raspiberry Pi & NFC Module**
-<img src="./assets/voicememo10.png" width="335"/> <img src="./assets/voicememo1.jpg" width="400"/>
 
 ### **Service Architecture**
 <img src="./assets/voicememo9.jpg" width="800"/>
