@@ -2,7 +2,146 @@
 
 ## 🛠️ Projects
 
-### 1. **Cryptocurrency Mock Investment Game**
+### 1. **WeInvesting - Real-Time Investment Intelligence Platform**
+
+**Description**: A comprehensive real-time financial information platform that integrates multiple data sources to provide investors with market data, cryptocurrency prices, economic indicators, news, and social sentiment analysis—all in one unified dashboard.
+
+**Tech Stack**:
+
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+
+**Key Features**:
+- **Zero-cost data collection** using 7 free-tier APIs (NewsAPI, Finnhub, Alpha Vantage, FRED, etc.)
+- Real-time data streaming via **WebSocket** with Redis Pub/Sub architecture
+- Comprehensive coverage: **S&P 500 stocks**, **415+ cryptocurrencies**, **ETFs**, and **economic indicators**
+- **30 database tables** across 4 domains (stocks, crypto, news, economic data)
+- AI-powered **social sentiment analysis** from X/Twitter and Truth Social
+- **5-node K3s cluster** for distributed data pipeline execution
+- **13,115 lines** of orchestrated DAG code managing automated data collection
+
+---
+
+#### 📊 **Data Collection (Apache Airflow)**
+
+Built a robust data pipeline using **Apache Airflow** to orchestrate automated collection from multiple financial APIs into a PostgreSQL database.
+
+**Infrastructure & Scale**:
+- **5-node K3s cluster** running Apache Airflow 2.8
+- **35 Python DAG files** and **60 SQL scripts**
+- **30 database tables** organized across 4 primary domains
+- Daily throughput of **1,000+ data points**
+
+**Data Domains**:
+1. **Stock Data** (9 tables): Company overviews, balance sheets, earnings calendars, market news
+2. **Cryptocurrency** (9 tables): Real-time pricing from Bithumb and CoinGecko with cross-platform mapping
+3. **News & Sentiment** (8 tables): Market news, social media posts with sentiment scores
+4. **Economic Indicators** (4 tables): CPI, inflation rates, federal funds rate, treasury yields
+
+**API Rate Limit Optimization**:
+- Implemented dual-token rotation with 15-minute delays for X API
+- Progressive batching strategy (20 symbols daily) with checkpoint-based resumption
+- Real-time rate limit detection with automatic 30-second backoff
+- Weekday-specialized queries increasing efficiency by **3x**
+
+**Scheduling Model**:
+- **Hourly**: 5 real-time data collection DAGs
+- **Daily**: 15 batch processing DAGs (03:00 UTC)
+- **Weekly**: 8 DAGs (Sundays, 05:00 UTC)
+- **Monthly**: 7 DAGs (1st of month)
+
+**Achievement**: Built an enterprise-grade data pipeline with **$0 infrastructure cost** by leveraging free-tier APIs and optimized rate limit handling.
+
+#### 🖥️ **Airflow Web UI**
+<img src="./assets/weinvesting-airflow.png" alt="WeInvesting Airflow Web UI" width="1000"/>
+
+---
+
+#### ⚙️ **Backend (FastAPI)**
+
+Developed a high-performance **FastAPI-based RESTful API server** that aggregates and serves real-time financial data through **24+ endpoints**.
+
+**Tech Stack**:
+- **FastAPI** v0.104.1 with async/await architecture
+- **PostgreSQL** with 27+ ORM models and optimized indexing
+- **Redis** v5.0.1 for caching and Pub/Sub messaging
+- **WebSockets** v13.0.1 for bidirectional real-time streaming
+- **Kubernetes/K3s** deployment in `investment-assistant` namespace
+
+**Real-Time Streaming Architecture**:
+- **5 WebSocket channels**: crypto prices, S&P 500 updates, market data, ETF tracking
+- **Redis Pub/Sub** for server-initiated data broadcasting
+- Automatic dead connection cleanup with heartbeat monitoring
+
+**API Categories** (All under `/api/v1` prefix):
+- **Market News**: 6 endpoints with search, filtering, and statistics
+- **S&P 500**: Market overview, symbol details, interactive charts
+- **Cryptocurrency**: Real-time pricing for 415+ coins, investment analysis, ecosystem metrics
+- **Economic Data**: CPI, Federal Funds Rate, Treasury Yields with historical trends
+- **Social Sentiment**: X/Twitter and Truth Social posts with sentiment analysis
+
+**Performance Optimizations**:
+- Two-layer Redis caching with 60-second TTL
+- Compound database indexes on symbols and timestamps
+- Batch query operations reducing database round-trips
+- Async I/O throughout the entire stack
+- Connection pooling with SQLAlchemy v2.0.23
+
+**Project Scale**:
+- **21,369+ lines** of Python code
+- **27+ ORM models** with relationship mapping
+- **415+ cryptocurrencies** supported
+- **Live API**: https://api.investment-assistant.site
+
+---
+
+#### 💻 **Frontend (React + TypeScript)**
+
+Built a modern, responsive web application providing an intuitive dashboard for real-time investment intelligence.
+
+**Tech Stack**:
+- **React 18** with **TypeScript** and **Vite** build tool
+- **Tailwind CSS** and **Radix UI** for modern, accessible design
+- **Recharts** and **Lightweight Charts** for financial data visualization
+- **React Query** for server state and **Zustand** for client state management
+- **Socket.IO Client** for WebSocket real-time updates
+- **Framer Motion** for smooth animations
+
+**Five Primary Modules**:
+1. **Home Dashboard**: Real-time market overview, earnings calendar, IPO tracker
+2. **Market Intelligence**: Live stock (S&P 500, NASDAQ), crypto (Bitcoin, Ethereum), and ETF data with technical charts
+3. **SNS Analytics**: X/Twitter post analysis with AI-powered investor sentiment detection
+4. **Financial News**: Real-time news feed with summaries and ticker connections
+5. **Economic Indicators**: Macroeconomic dashboard tracking rates, inflation, GDP with historical trends
+
+**Key Features**:
+- Mobile-first responsive design (optimized for 320px–768px)
+- Dark mode support with system preference detection
+- Real-time data updates via WebSocket streams
+- Performance optimizations: lazy loading, memoization, code splitting
+- Browser history management with state restoration
+- XSS prevention and environment-based security
+
+**Live Platform**: https://weinvesting.site
+
+#### 📱 **App Screenshots**
+<img src="./assets/weinvesting-app-1.png" alt="WeInvesting Home Dashboard" width="800"/>
+<img src="./assets/weinvesting-app-2.png" alt="WeInvesting Market Intelligence" width="800"/>
+<img src="./assets/weinvesting-app-3.png" alt="WeInvesting SNS Analytics" width="800"/>
+
+---
+
+#### 🔗 **GitHub Repositories:**
+[Data Collection (DAGs)](https://github.com/yih5025/investment-assistant-dags) | [Backend API](https://github.com/yih5025/investment-assistant-backend) | [Frontend](https://github.com/yih5025/investment-assistant-frontend)
+
+#### 👨🏻‍🔧 **Data Pipeline Architecture**
+<img src="./assets/weinvesting-pipeline.png" alt="WeInvesting Data Pipeline Architecture" width="1000"/>
+
+#### 🏗️ **Infrastructure Architecture**
+<img src="./assets/weinvesting-infrastructure.png" alt="WeInvesting Infrastructure Architecture" width="1000"/>
+
+---
+
+### 2. **Cryptocurrency Mock Investment Game**
 
 **Description**: A web-based mock investment game that uses real-time cryptocurrency data for fun and educational investing.
 
