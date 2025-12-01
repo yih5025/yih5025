@@ -1,6 +1,6 @@
 # Ilhan Yu - Data Engineer
 
-## 🛠️ Projects
+## Projects
 
 ### 1. **WeInvesting - Real-Time Investment Intelligence Platform**
 
