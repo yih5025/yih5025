@@ -124,9 +124,18 @@ Built a modern, responsive web application providing an intuitive dashboard for 
 **Live Platform**: https://weinvesting.site
 
 #### 📱 **App Screenshots**
-<img src="./assets/weinvesting-app-1.png" alt="WeInvesting Home Dashboard" width="800"/>
-<img src="./assets/weinvesting-app-2.png" alt="WeInvesting Market Intelligence" width="800"/>
-<img src="./assets/weinvesting-app-3.png" alt="WeInvesting SNS Analytics" width="800"/>
+<table>
+  <tr>
+    <td><img src="./assets/weinvesting-app-1.png" alt="WeInvesting Home Dashboard" width="100%"></td>
+    <td><img src="./assets/weinvesting-app-2.png" alt="WeInvesting Market Intelligence" width="100%"></td>
+    <td><img src="./assets/weinvesting-app-4.png" alt="WeInvesting SNS Analytics" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">홈 페이지 화면 (실적발표 캘린더)</td>
+    <td align="center">암호화폐 상세보기 페이지 화면</td>
+    <td align="center">트럼프 sns 분석 페이지 화면</td>
+  </tr>
+</table>
 
 ---
 
@@ -134,10 +143,10 @@ Built a modern, responsive web application providing an intuitive dashboard for 
 [Data Collection (DAGs)](https://github.com/yih5025/investment-assistant-dags) | [Backend API](https://github.com/yih5025/investment-assistant-backend) | [Frontend](https://github.com/yih5025/investment-assistant-frontend)
 
 #### 👨🏻‍🔧 **Data Pipeline Architecture**
-<img src="./assets/weinvesting-pipeline.png" alt="WeInvesting Data Pipeline Architecture" width="1000"/>
+<img src="./assets/weinvesting-pipeline.jpg" alt="WeInvesting Data Pipeline Architecture" width="1000"/>
 
 #### 🏗️ **Infrastructure Architecture**
-<img src="./assets/weinvesting-infrastructure.png" alt="WeInvesting Infrastructure Architecture" width="1000"/>
+<img src="./assets/weinvesting-infrastructure.jpg" alt="WeInvesting Infrastructure Architecture" width="1000"/>
 
 ---
 
