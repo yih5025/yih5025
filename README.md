@@ -90,7 +90,7 @@ Developed a high-performance **FastAPI-based RESTful API server** that aggregate
 - **21,369+ lines** of Python code
 - **27+ ORM models** with relationship mapping
 - **415+ cryptocurrencies** supported
-- **Live API**: https://api.investment-assistant.site
+- **Live API**: https://api.investment-assistant.site/docs
 
 ---
 
